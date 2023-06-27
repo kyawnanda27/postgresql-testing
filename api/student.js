@@ -6,7 +6,7 @@ const pool = new Pool({
     host: "localhost",
     port: 5434,
     user: "knd",
-    password: "2782001knd", //the password will be deleted when posted on git
+    password: "", //the password will be deleted when posted on git
     database: "studentscores"
 });
 
